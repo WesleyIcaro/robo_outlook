@@ -1,2 +1,2 @@
 # robo-outlook
-Robô em Python e selenium capaz de acessar o outlook.
+Robô em Python e Selenium capaz de acessar o outlook.
